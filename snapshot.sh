@@ -3,6 +3,7 @@
 ## Created by: stulandr
 ## Date: August 01, 2018
 ## Server:	nuc
+## to be run from: executeCommandLine("/usr/local/bin/motion_snapshot.sh")
 
 ## variables
 MOTIONDIR=/path/to/snapshot/directory
