@@ -1,2 +1,2 @@
 # ha
-Home automation scrips
+Home automation scrips for openHAB
